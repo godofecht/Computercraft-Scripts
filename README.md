@@ -68,7 +68,7 @@ Each turtle script works the same way. It reads the size of the area, checks the
 | `digroom.lua` | Digs a room of length by width by height. After each layer it digs up, moves up and turns round. |
 | `farm.lua` | Digs along each row of a field to harvest it, drives back, then drops every item it carries. Place a chest where it ends up. |
 | `till.lua` | At each square, checks the block below. If there is no block there, it digs down and places an item from its inventory, moving to the next slot when one runs out. |
-| `news_text.lua` | Finds a monitor, then scrolls a list of made-up headlines across it in purple. `scrollText(text, 1)` sets the speed to one character a second. |
+| `news_text.lua` | Finds a monitor, then scrolls five example headlines across it in purple, such as "Market day is on Saturday". `scrollText(text, 1)` sets the speed to one character a second. |
 
 ## Ideas to try
 
