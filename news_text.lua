@@ -42,11 +42,12 @@ while true do
 end
 end
  
+-- Example headlines. These are made up. Replace them with your own text.
 text = {}
-text[1] = "BREAKING NEWS"
-text[2] = "Covid-19 killed 10,000 people today"
-text[3] = "Scientists have developed anti-matter bombs"
-text[4] = "We'll be on the moon in days, says lead scientist Dr. Terace"
-text[5] = "Casino opening on the strip soon"
+text[1] = "EXAMPLE NEWS"
+text[2] = "Wheat harvest at the north farm is ready"
+text[3] = "New railway line opens between spawn and the village"
+text[4] = "Mining turtle reaches level 12"
+text[5] = "Market day is on Saturday"
  
 scrollText(text,1)
